@@ -1,6 +1,6 @@
 package org.example.abstractfactory.model;
 
-public class FordSedan implements Sedan{
+public class FordSedan implements Sedan {
     public static final String name = "Ford sedan";
 
     public static String getName() {

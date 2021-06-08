@@ -11,6 +11,6 @@ public class Main {
 
         System.out.println("toyota factory crossover: " + abstractCarFactory1.createCrossover());
         System.out.println("ford factory sedan: " + abstractCarFactory2.createSedan());
-        
+
     }
 }
